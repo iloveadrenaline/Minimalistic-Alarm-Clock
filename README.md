@@ -17,11 +17,20 @@ This is a compact alarm clock designed by me, around the XIAO Esp32-C3. It has 4
 
 -4 Mechanical Switches
 
+
+
 -2.25in TFT Screen for displaying the time of course
+
+
+
 
 -Passive Buzzer for the sound
 
+
+
 -60 degree angled display
+
+
 
 
 ## PCB Schematics
