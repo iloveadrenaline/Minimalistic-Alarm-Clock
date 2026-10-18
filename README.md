@@ -30,14 +30,23 @@ This is a compact alarm clock designed by me, around the XIAO Esp32-C3. It has 4
 
 
 1x Seeed XIAO Esp32-C3
+
 1x 2.25in TFT Screen
+
 4x MX-Style switches
+
 4x white blank DSA keycaps
+
 1x 3.3V piezo buzzer
+
 1x Jumper wires female-female 20cm
+
 8x Heatset insert M3x5x4
+
 4x Screw M3x8mm
+
 4x Screw M3x16mm
+
 
 ## Firmware
 The firmware is made in in INO that's all I can tell you , I'm very begginer to this so you can just Google it . Psst I recommend Claude 
