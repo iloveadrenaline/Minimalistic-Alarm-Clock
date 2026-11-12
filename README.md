@@ -52,7 +52,7 @@ It Features 4 mx-cherry switches with a TFT Display and a buzzer to play the sou
 | **1x** | **Jumper Wires (Female-Female)** | 20cm Dupont cables (pack or individual strands) | ~$1.50 (pack) | [Amazon](https://www.amazon.com) / [AliExpress](https://www.aliexpress.com) |
 | **8x** | **Heat-Set Inserts M3x5x4** | Brass threaded inserts for 3D prints (M3 inner, 5mm OD, 4mm L) | $0.1141 per piece | [CNC Kitchen](https://cnckitchen.store/products/made-for-voron-gewindeeinsatz-threaded-insert-m3x5x4-100-stk-pcs) |
 | **4x** | **Screw M3x8mm** | M3 Button/Socket Head Cap Screws | ~$0.05 ea | [McMaster-Carr](https://www.mcmaster.com) / [Amazon](https://www.amazon.com) |
-| **4x** | **Screw M3x16mm** | M3 Button/Socket Head Cap Screws | ~$0.05 ea | [McMaster-Carr](https://www.mcmaster.com) / [Amazon](https://www.amazon.com) |
+| **4x** | **Screw M3x16mm** | M3 Button/Socket Head Cap Screws | $1.22 ea | [Bambu Lab](https://eu.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?srsltid=AYCX9vKYVgUzxCiqwXrXZNEc4Cc6yveX-dmWqXt5I9FvBIE3AEr04nx1)|
 
 > **Estimated Total Cost:** ~$15.00 – $22.00 USD (excluding bulk hardware packs and shipping).
 
