@@ -89,12 +89,11 @@ Minimalistic-Alarm-Clock/
 
 ## License
 
-This project is released under the MIT License -- see in the repo
+This project is released under the MIT License -- see in the repo files
 
 ## Credits
 
 - Built for [Hack Club's Phantom](https://phantom.hackclub.com) YSWS program
-- MX switch / XIAO / TFT footprints from the Hackpad KiCad starter library
 - Designed by [iloveadrenaline](https://github.com/iloveadrenaline)
 - The software was made with minimal use of Antrophic Claude and with Google Gemini
   Peace out
