@@ -10,7 +10,8 @@ A 4-key alarm clock built by me on a Seeed XIAO Esp32-C3. Submitted to Hack Club
 
 ## Overview
 
-This is a compact alarm clock designed by me, around the XIAO Esp32-C3. It has 4 MX-Cherry keys that are programmable into whatever you want. This project was made with the goal to design a modern alarm clock to digital detox.
+This is a compact alarm clock designed by me, around the XIAO Esp32-C3 microcontroller. We'll,  it's not the best but it's made by me.
+It Features 4 mx-cherry switches with a TFT Display and a buzzer to play the sounds.
 **CAD Link**: https://cad.onshape.com/documents/6fedfa32d8549fedebcc7a2f/w/9888169672ce6c286769ae5b/e/3693f4b94f23b41e8b603b94
 
 ## Features
@@ -24,7 +25,7 @@ This is a compact alarm clock designed by me, around the XIAO Esp32-C3. It has 4
 
 
 
--Passive Buzzer for the sound
+-Passive 3.3v Buzzer for the sound
 
 
 
@@ -43,10 +44,10 @@ This is a compact alarm clock designed by me, around the XIAO Esp32-C3. It has 4
 
 | Qty | Item | Description | Approx. Unit Price | Vendor / Source Link |
 | :---: | :--- | :--- | :---: | :---: |
-| **1x** | **Seeed XIAO ESP32-C3** | Microcontroller with Wi-Fi & Bluetooth 5.0 | ~$5.40 - $6.50 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32C3-p-5432.html) |
-| **1x** | **2.25" TFT Screen** | ST7789 / ST779 SPI Color LCD Display | ~$3.50 - $6.00 | [BuyDisplay](https://www.buydisplay.com/2-25-inch-tft-serial-spi-76x284-lcd-display-module-w-st7789p3) / [AliExpress](https://www.aliexpress.com) |
-| **4x** | **MX-Style Switches** | Mechanical Switches (Cherry MX, Gateron, Outemu, etc.) | ~$0.25 - $0.50 ea | [Adafruit](https://www.adafruit.com) / [Amazon](https://www.amazon.com) |
-| **4x** | **White Blank DSA Keycaps** | PBT/ABS Keycaps with DSA profile (1U size) | ~$0.30 - $0.60 ea | [Flashquark](https://flashquark.com) / [AliExpress](https://www.aliexpress.com) |
+| **1x** | **Seeed XIAO ESP32-C3** | Microcontroller with Wi-Fi & Bluetooth 5.0 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32C3-p-5432.html) |
+| **1x** | **2.25" TFT Screen** | ST7789 / ST779 SPI Color LCD Display | $4.98 | [BuyDisplay](https://www.buydisplay.com/2-25-inch-tft-serial-spi-76x284-lcd-display-module-w-st7789p3) / [AliExpress](https://www.aliexpress.com) |
+| **4x** | **MX-Style Switches** | Mechanical Switches (Cherry MX Kalih) | [Adafruit.com](https://www.adafruit.com/product/4954) |
+| **4x** | **White Blank DSA Keycaps** | PBT/ABS Keycaps with DSA profile (1U size) | $0.695 | [Flashquark](https://flashquark.com) / [AliExpress](https://www.aliexpress.com) |
 | **1x** | **3.3V Piezo Buzzer** | Active or Passive 3.3V Buzzer Module | ~$1.00 - $2.50 | [Adafruit](https://www.adafruit.com) / [Amazon](https://www.amazon.com) |
 | **1x** | **Jumper Wires (Female-Female)** | 20cm Dupont cables (pack or individual strands) | ~$1.50 (pack) | [Amazon](https://www.amazon.com) / [AliExpress](https://www.aliexpress.com) |
 | **8x** | **Heat-Set Inserts M3x5x4** | Brass threaded inserts for 3D prints (M3 inner, 5mm OD, 4mm L) | ~$0.10 ea | [CNC Kitchen](https://cnckitchen.store) / [Polt24](https://polt24.ee/en/threaded-inserts/496-heat-set-threaded-insert-m3x5x4mm-brass.html) |
