@@ -51,10 +51,10 @@ It Features 4 mx-cherry switches with a TFT Display and a buzzer to play the sou
 | **1x** | **3.3V Piezo Buzzer** | Active or Passive 3.3V Buzzer Module | $1.06 | [Aliexpress](https://www.aliexpress.com/item/1005013476741919.html?spm=a2g0n.productlist.0.0.3ac51d1d70qIUs&browser_id=f6bafa236142433da55aa4817c87d980&aff_trace_key=b9ecc1b3d9624e0fb9b8902c3478ecb3-1794142533671-07167-_c3D6u7vN&aff_platform=msite&m_page_id=pqhpiwyst8cavher1a1cf08f17fe169d4851fadeee&gclid=&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21RON%213.04%215.11%21%21%214.05%216.81%21%400b0fed2b17944748322285352e0d28%2112000061280568833%21sea%21RO%210%21X%211%210%21n_tag%3A-29919%3Bd%3A5bd3786c%3Bm03_new_user%3A-29895&algo_pvid=473a6041-78ad-45b5-87e2-5ffa6cb00b03&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013476741919%7C_p_origin_prod%3A) |
 | **1x** | **Jumper Wires (Female-Female)** | 20cm Dupont cables (pack or individual strands) | ~$1.50 (pack) | [Amazon](https://www.amazon.com) / [AliExpress](https://www.aliexpress.com) |
 | **8x** | **Heat-Set Inserts M3x5x4** | Brass threaded inserts for 3D prints (M3 inner, 5mm OD, 4mm L) | $0.1141 per piece | [CNC Kitchen](https://cnckitchen.store/products/made-for-voron-gewindeeinsatz-threaded-insert-m3x5x4-100-stk-pcs) |
-| **4x** | **Screw M3x8mm** | M3 Button/Socket Head Cap Screws | ~$0.05 ea | [McMaster-Carr](https://www.mcmaster.com) / [Amazon](https://www.amazon.com) |
-| **4x** | **Screw M3x16mm** | M3 Button/Socket Head Cap Screws | $1.22 ea | [Bambu Lab](https://eu.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?srsltid=AYCX9vKYVgUzxCiqwXrXZNEc4Cc6yveX-dmWqXt5I9FvBIE3AEr04nx1)|
+| **4x** | **Screw M3x8mm** | M3 Button/Socket Head Cap Screws | $1.22 ea | [Bambu Lab](https://eu.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?srsltid=AYCX9vKYVgUzxCiqwXrXZNEc4Cc6yveX-dmWqXt5I9FvBIE3AEr04nx1&id=48671486935388)  |
+| **4x** | **Screw M3x16mm** | M3 Button/Socket Head Cap Screws | $1.22 ea | [Bambu Lab](https://eu.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?srsltid=AYCX9vJBDLkOy5zc--5BTCBXapK7u9c55hmlFBED_ZB8JgY1bNBfUbOQ&id=48671487066460)|
 
-> **Estimated Total Cost:** ~$15.00 – $22.00 USD (excluding bulk hardware packs and shipping).
+> **Estimated Total Cost:** $ (excluding bulk hardware packs and shipping).
 
 
 ## Firmware
